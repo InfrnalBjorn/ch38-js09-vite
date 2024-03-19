@@ -28,3 +28,4 @@ test("Suma de números decimales", () => {
     expect(sum(.1, .8)).toBeCloseTo(.9);
     expect(sum(.1, .9)).toBeCloseTo(1);
 })
+
